@@ -48,4 +48,4 @@ DEPENDENCIES
   susy (~> 2.2.2)
 
 BUNDLED WITH
-   1.10.5
+   1.12.5
